@@ -6,6 +6,15 @@ Este repositório consolida os meus projetos e desafios práticos desenvolvidos 
 
 O repositório está dividido nos seguintes desafios:
 
+1. **[Primeiro Desafio](./Primeiro%20Desafio)**
+   - Lógica inicial de programação.
+2. **[Segundo Desafio](./Segundo%20Desafio)**
+   - Desafio prático utilizando JavaScript para cálculo de partidas rankeadas.
+3. **[Terceiro Desafio](./Terceiro%20Desafio)**
+   - Escrevendo e manipulando as classes de um jogo.
+
+---
+
 # 1️⃣ Desafio Classificador de nível de Herói
      
 **O Que deve ser utilizado**
@@ -102,8 +111,6 @@ Ao final deve se exibir uma mensagem:
 - "o {tipo} atacou usando {ataque}"
   ex: mago atacou usando magia
   guerreiro atacou usando espada
-   
-
 
 ## 🛠️ Tecnologias Utilizadas
 - **JavaScript**
